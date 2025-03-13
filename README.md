@@ -43,8 +43,7 @@ To execute the analysis, follow these steps:
    * cd us-census-data-analysis
 2. Ιnstall the required dependencies:
    * pip install -r requirements.txt
-3.	Start Jupyter Notebook:
-   * jupyter notebook
+3. Start Jupyter Notebook:
    * jupyter notebook
 4.	Open and run notebook.ipynb.
 
