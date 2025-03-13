@@ -45,6 +45,7 @@ To execute the analysis, follow these steps:
    * pip install -r requirements.txt
 3.	Start Jupyter Notebook:
    * jupyter notebook
+   * jupyter notebook
 4.	Open and run notebook.ipynb.
 
 ## License
